@@ -1,0 +1,7 @@
+.card-border-top {
+    border-top-width: 5px !important;
+    border-top-style: solid !important;
+    border-top-color: var(--border-top-color, #888) !important;
+    border-radius: 1rem 1rem 0 0 !important;
+  }
+  

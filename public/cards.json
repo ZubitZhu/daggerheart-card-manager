@@ -1,0 +1,173 @@
+[
+    {
+      "id": "card-001",
+      "dominio": "Arcano",
+      "livello": 1,
+      "categoria": "Incantesimo",
+      "costo": 0,
+      "titolo": "Rune Ward",
+      "descrizione": "Hai un cimelio profondamente personale che può essere infuso con magia protettiva e tenuto come talismano sia da te che da un alleato. Descrivi cos’è e perché è importante per te. Chiunque tenga il talismano può spendere un punto Speranza per ridurre i danni subiti di 1d8.  Se il risultato del dado è 8, il potere del talismano termina dopo aver ridotto i danni in questo turno. Può essere ricaricato gratuitamente durante il prossimo riposo."
+    },
+    {
+        "id": "card-002",
+        "dominio": "Arcano",
+        "livello": 1,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Unleash Chaos",
+        "descrizione": "All’inizio di una sessione, metti un numero di segnalini su questa carta pari al tuo tratto Incantesimo (Spellcast).  Fai un Tiro di Incantesimo contro un bersaglio entro Lunga distanza e spendi qualsiasi numero di segnalini per incanalare l’energia grezza dentro di te e scagliarla contro il bersaglio. In caso di successo, tira un numero di d10 pari ai segnalini spesi e infliggi al bersaglio una quantità di danni magici pari al risultato. Segna uno Stress per ricaricare questa carta con segnalini (fino al valore del tuo tratto Incantesimo).  Alla fine di ogni sessione, rimuovi tutti i segnalini non utilizzati."
+    },
+    {
+        "id": "card-003",
+        "dominio": "Arcano",
+        "livello": 1,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Wall Walk",
+        "descrizione": "Spendi un Punto Speranza per permettere ad una creatura che tocchi di arrampicarsi su muri e soffitti come se stesse camminando a terra. Dura fino alla fine della scena o finchè non lanci di nuovo questo incantesimo."
+    },
+    {
+        "id": "card-004",
+        "dominio": "Spada",
+        "livello": 1,
+        "categoria": "Abilità",
+        "costo": 1,
+        "titolo": "Gat Back Up",
+        "descrizione": "Quando prendi danni Gravi (3HP), puoi marcare uno Stress ed abbassare la gravità del danno di un livello."
+    },
+    {
+        "id": "card-005",
+        "dominio": "Spada",
+        "livello": 1,
+        "categoria": "Abilità",
+        "costo": 1,
+        "titolo": "Not Good Enough",
+        "descrizione": "Quando tiri per i danni, puoi re-rollare ogni risultato 1 e 2."
+    },
+    {
+        "id": "card-006",
+        "dominio": "Spada",
+        "livello": 1,
+        "categoria": "Abilità",
+        "costo": 0,
+        "titolo": "Whirlwind",
+        "descrizione": "Quando effettui un attacco con successo contro un bersaglio entro Distanza Molto Ravvicinata, puoi spendere un punto Speranza per usare lo stesso attacco contro tutti gli altri bersagli entro Distanza Molto Ravvicinata. Tutti gli avversari aggiuntivi colpiti con questa abilità subiscono la metà dei danni."
+    },
+    {
+        "id": "card-008",
+        "dominio": "Ossa",
+        "livello": 1,
+        "categoria": "Abilità",
+        "costo": 0,
+        "titolo": "Deft Maneuvers",
+        "descrizione": "Una volta per riposo, segnare uno Stress per scattare ovunque entro Lunga distanza senza dover effettuare un Tiro di Agilità per arrivarci.  Se termini questo movimento entro distanza da mischia da un avversario e attacchi immediatamente, ottieni un +1 al tiro per colpire."
+    },
+    {
+        "id": "card-009",
+        "dominio": "Ossa",
+        "livello": 1,
+        "categoria": "Abilità",
+        "costo": 1,
+        "titolo": "I See It Coming",
+        "descrizione": "Quando sei bersaglio di un attacco effettuato oltre il range Melee, puoi segnarti 1 Stress per tirare un d4 e aggungerlo alla tua Evasione contro l'attacco corrente."
+    },
+    {
+        "id": "card-010",
+        "dominio": "Ossa",
+        "livello": 1,
+        "categoria": "Abilità",
+        "costo": 1,
+        "titolo": "Untouchable",
+        "descrizione": "Guadagni un bonus Evasione pari a metà del tuo valore di agilità."
+    },
+    {
+        "id": "card-011",
+        "dominio": "Codex",
+        "livello": 1,
+        "categoria": "Grimorio",
+        "costo": 2,
+        "titolo": "Book of Ava",
+        "descrizione": "<b>Power Push:</b> Effettua un Tiro di Incantesimo contro un bersaglio entro distanza da mischia. Se ha successo, viene respinto fino a distanza Lunga e subisce d10+2 danni magici, usando la tua Competenza.<br><br><b>Tava's Armor:</b> Spendi un punto Speranza per dare a un bersaglio che puoi toccare un bonus di +1 al suo punteggio Armatura, fino al suo prossimo riposo o finché non lanci di nuovo Armatura di Tava.<br><br><b>Ice Spike:</b> Effettua un Tiro di Incantesimo (12) per evocare una grande punta di ghiaccio entro distanza Lunga. Se la usi come arma, effettua il Tiro di Incantesimo contro la Difficoltà del bersaglio invece. Se ha successo, infliggi d6 danni fisici usando la tua Competenza."
+    },
+    {
+        "id": "card-012",
+        "dominio": "Codex",
+        "livello": 1,
+        "categoria": "Grimorio",
+        "costo": 2,
+        "titolo": "Book of Illiat",
+        "descrizione": "<b>Slumber:</b> Effettua un Tiro di Incantesimo contro un bersaglio entro distanza Molto Ravvicinata. In caso di successo, il bersaglio cade Addormentato finché non subisce danni o il GM spende un punto Paura nel suo turno per rimuovere questa condizione.<br><br><b>Arcane Barrage:</b> Una volta per riposo, spendi qualsiasi quantità di punti Speranza e lancia proiettili magici che colpiscono un bersaglio a tua scelta entro distanza Ravvicinata. Tira un numero di d6 pari ai punti Speranza spesi e infliggi al bersaglio tanti danni magici quanti sono i risultati dei dadi. <br><br><b>Telepathy:</b> Spendi un punto Speranza per aprire una linea di comunicazione mentale con un bersaglio che puoi vedere. Questa connessione dura fino al tuo prossimo riposo o finché non lanci nuovamente Telepatia."
+    },
+    {
+        "id": "card-013",
+        "dominio": "Codex",
+        "livello": 1,
+        "categoria": "Grimorio",
+        "costo": 2,
+        "titolo": "Book of Tyfar",
+        "descrizione": "<b>Wild Flame:</b> Effettua un Tiro di Incantesimo contro un massimo di tre avversari entro distanza da mischia. I bersagli contro cui hai successo subiscono 2d6 danni magici e devono segnare uno Stress mentre le fiamme erompono dalla tua mano. <br><br><b>Magic Hand:</b> Evochi una mano magica delle stesse dimensioni e forza della tua entro distanza Lunga.<br><br><b>Mysterious Mist:</b> Effettua un Tiro di Incantesimo (13) per creare una nebbia temporanea e densa che si raccoglie in un’area stazionaria entro distanza Molto Ravvicinata. La nebbia oscura pesantemente quest’area e tutto ciò che vi si trova all’interno."
+    },
+    {
+        "id": "card-014",
+        "dominio": "Grazia",
+        "livello": 1,
+        "categoria": "Abilità",
+        "costo": 0,
+        "titolo": "Deft Deceiver",
+        "descrizione": "Spendi un punto Speranza per ottenere vantaggio su un tiro per ingannare o convincere qualcuno a credere a una tua bugia."
+    },
+    {
+        "id": "card-015",
+        "dominio": "Grazia",
+        "livello": 1,
+        "categoria": "Incantesimo",
+        "costo": 0,
+        "titolo": "Enrapture",
+        "descrizione": "Effettua un Tiro di Incantesimo contro un bersaglio entro distanza Ravvicinata. In caso di successo, il bersaglio diventa Temporaneamente Incantato. Mentre è Incantato, l’attenzione del bersaglio è fissata su di te, il suo campo visivo si restringe e ogni altro suono viene escluso tranne la tua voce. Una volta per riposo, in caso di successo, puoi segnare uno Stress per costringere anche il bersaglio Incantato a segnare uno Stress."
+    },
+    {
+        "id": "card-016",
+        "dominio": "Grazia",
+        "livello": 1,
+        "categoria": "Abilità",
+        "costo": 1,
+        "titolo": "Inspirational Words",
+        "descrizione": "La tua parola è intrisa di potere. Dopo un lungo riposo, metti un numero di segnalini su questa carta pari al tuo valore di Presenza. Quando parli con un alleato, puoi spendere un segnalino da questa carta per dargli uno dei seguenti benefici:<br><ul><li>Il tuo alleato rimuove uno stress</li><li>Il tuo alleato recupera un Punto Ferita</li><li>Il tuo alleato ottiene un Punto Speranza</li></ul>. Quando effettui un riposo lungo, rimuovi tutti i segnalini non spesi."
+    },
+    {
+        "id": "card-017",
+        "dominio": "Mezzanotte",
+        "livello": 1,
+        "categoria": "Abilità",
+        "costo": 0,
+        "titolo": "Pick and Pull",
+        "descrizione": "Hai vantaggio nei tiri d’azione per scassinare serrature non magiche, disinnescare trappole non magiche o rubare oggetti da un bersaglio (sia furtivamente che con la forza)."
+    },
+    {
+        "id": "card-018",
+        "dominio": "Mezzanotte",
+        "livello": 1,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Rain of Blades",
+        "descrizione": "Spendi un punto Speranza per effettuare un Tiro di Incantesimo ed evocare lame da lancio che colpiscono tutti i bersagli entro distanza Molto Ravvicinata. I bersagli contro cui hai successo subiscono d8+2 danni magici, usando la tua Competenza. Se un bersaglio colpito è Vulnerabile, subisce 1d8 danni extra."
+    },
+    {
+        "id": "card-019",
+        "dominio": "Mezzanotte",
+        "livello": 1,
+        "categoria": "Incantesimo",
+        "costo": 0,
+        "titolo": "Uncanny Disguise",
+        "descrizione": "Quando hai a disposizione qualche minuto per prepararti, puoi segnare uno Stress per assumere le sembianze di qualsiasi umanoide tu riesca a visualizzare chiaramente nella tua mente. Mentre sei travestito, hai vantaggio ai tiri di Presenza per evitare di essere scoperto. Metti su questa carta un numero di segnalini pari al tuo tratto da Incantatore. Quando compi un’azione mentre sei travestito, spendi un segnalino da questa carta. Dopo che l’azione che consuma l’ultimo segnalino è stata risolta, il travestimento svanisce."
+    }
+  ]
+  
+
+
+
+
+
+
+
+  
