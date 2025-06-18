@@ -160,6 +160,69 @@
         "costo": 0,
         "titolo": "Uncanny Disguise",
         "descrizione": "Quando hai a disposizione qualche minuto per prepararti, puoi segnare uno Stress per assumere le sembianze di qualsiasi umanoide tu riesca a visualizzare chiaramente nella tua mente. Mentre sei travestito, hai vantaggio ai tiri di Presenza per evitare di essere scoperto. Metti su questa carta un numero di segnalini pari al tuo tratto da Incantatore. Quando compi un’azione mentre sei travestito, spendi un segnalino da questa carta. Dopo che l’azione che consuma l’ultimo segnalino è stata risolta, il travestimento svanisce."
+    },
+    {
+        "id": "card-020",
+        "dominio": "Saggio",
+        "livello": 1,
+        "categoria": "Abilità",
+        "costo": 0,
+        "titolo": "Gifted Tracker",
+        "descrizione": "Quando stai cercando di seguire una creatura specifica o un gruppo di creature basandoti su tracce del loro passaggio, puoi spendere un numero qualsiasi di Punti Speranza e porre al GM la stessa quantità di domande dalla seguente lista.<br><ul><li>In quale direzione sono andati?</li><li>Quanto tempo fa sono passati da qui?</li><li>Cosa stavano facendo qui?</li><li>Quanti sono?</li></ul><br>Quando incontri le creature che stavi seguendo, guadagni un bonus +1 all'Evasione contro di loro."
+    },
+    {
+        "id": "card-021",
+        "dominio": "Saggio",
+        "livello": 1,
+        "categoria": "Abilità",
+        "costo": 0,
+        "titolo": "Nature's Tongue",
+        "descrizione": "Puoi parlare la lingua della natura. Quando vuoi parlare con le piante e gli animali intorno a te, fai un tiro di Istinto (12). Con un successo, ti diranno ciò che sanno. Con un tiro con Paura, la loro conoscenza potrebbe essere limitata o avere un costo. Inoltre, prima di fare il tiro mentre sei in un ambiente naturale, puoi spendere un Punto Speranza per aggiungere +2 come bonus al tiro."
+    },
+    {
+        "id": "card-022",
+        "dominio": "Saggio",
+        "livello": 1,
+        "categoria": "Incantesimo",
+        "costo": 0,
+        "titolo": "Vicious Entangle",
+        "descrizione": "Fai un Tiro di Incantesimo contro un bersaglio a entro distanza Lontana. Con un successo, radici e rovi fuoriescono dal suolo, infliggendo 1d8+1 danni fisici e <b>Trattenere</b> il bersaglio. Inoltre, con un successo, puoi spendere un Punto Speranza per <b>Trattenere</b> temporaneamente un altro avversario a distanza Molto Vicina dal tuo bersaglio."
+    },
+    {
+        "id": "card-023",
+        "dominio": "Splendore",
+        "livello": 1,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Bolt Beacon",
+        "descrizione": "Fai un Tiro di Incantesimo contro un bersaglio entro distanza Lontana. Con un successo, spendi un Punto Speranza per lanciare contro di loro un dardo di luce scintillante, infliggendo d8+2 danni magici usando la tua <b>Competenza</b>. L'avversario diventa temporaneamente <b>Vulnerabile</b> ed emette un bagliore finchè la condizione non termina."
+    },
+    {
+        "id": "card-024",
+        "dominio": "Splendore",
+        "livello": 1,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Mending Touch",
+        "descrizione": "Posi le mani su una creatura e canalizzi magia curativa per chiudere le sue ferite. Quando puoi prenderti qualche minuto per concentrarti sul bersaglio che stai aiutando, puoi spendere 2 Speranza per rimuovere 1 Punto Ferita o 1 Stress da loro. Una volta per ogni riposo lungo, quando usi questo tempo di guarigione per imparare qualcosa di nuovo su di loro o rivelare qualcosa di te stesso, puoi invece rimuovere 2 Punti Ferita o 2 Stress da loro."
+    },
+    {
+        "id": "card-025",
+        "dominio": "Splendore",
+        "livello": 1,
+        "categoria": "Abilità",
+        "costo": 0,
+        "titolo": "Reassurance",
+        "descrizione": "Una volta per riposo, dopo che un alleato ha tentato un tiro di azione ma prima che si applichino le conseguenze, puoi offrire assistenza o parole di incoraggiamento. Quando lo fai, il tuo alleato può ritirare i dadi."
+    },
+    {
+        "id": "card-026",
+        "dominio": "Valore",
+        "livello": 1,
+        "categoria": "Abilità",
+        "costo": 0,
+        "titolo": "Bare Bones",
+        "descrizione": "Quando scegli di non indossare un'armatura, hai un punteggio base di Armatura pari a 3 + la tua Forza e utilizzi le seguenti soglie di danno base: <ul><li><b>Tier 1:</b> 9/19</li><li><b>Tier 2:</b> 11/24</li><li><b>Tier 3:</b> 13/31</li><li><b>Tier 4:</b> 15/38</li></ul>"
     }
   ]
   
