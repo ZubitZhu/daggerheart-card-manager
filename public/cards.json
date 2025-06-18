@@ -241,6 +241,60 @@
         "costo": 1,
         "titolo": "I Am Your Shield",
         "descrizione": "Quando un alleato entro portata Molto Ravvicinata sta per subire danni, puoi segnare 1 Stress per frapporre te stesso e diventare il bersaglio dell’attacco al suo posto. Quando subisci danni da questo attacco, puoi segnare un qualsiasi numero di Slot Armatura."
+    },
+    {
+        "id": "card-029",
+        "dominio": "Arcano",
+        "livello": 2,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Cinder Grasp",
+        "descrizione": "Effettua un Tiro di Incantesimo contro un bersaglio nel raggio da mischia. In caso di successo, il bersaglio prende immediatamente fuoco, subisce 1d20+3 danni magici ed è temporaneamente In Fiamme. Quando una creatura agisce mentre è In Fiamme, deve subire 2d6 danni magici aggiuntivi se è ancora In Fiamme alla fine della sua azione."
+    },
+    {
+        "id": "card-030",
+        "dominio": "Arcano",
+        "livello": 2,
+        "categoria": "Incantesimo",
+        "costo": 0,
+        "titolo": "Floating Eye",
+        "descrizione": "Spendi una Speranza per creare una piccola sfera fluttuante che puoi muovere ovunque entro un raggio Molto Lontano. Finché questo incantesimo è attivo, puoi vedere attraverso la sfera come se stessi guardando dal suo punto di vista. Puoi passare liberamente tra l’uso dei tuoi sensi e la visione tramite la sfera. Se la sfera subisce danni o si allontana troppo, l’incantesimo termina."
+    },
+    {
+        "id": "card-031",
+        "dominio": "Spada",
+        "livello": 2,
+        "categoria": "Abilità",
+        "costo": 1,
+        "titolo": "A Soldier's Bond",
+        "descrizione": "Una volta per ogni riposo lungo, quando fai un complimento a qualcuno o gli chiedi qualcosa in cui sono bravi, entrambi potete guadagnare 3 Speranze."
+    },
+    {
+        "id": "card-032",
+        "dominio": "Spada",
+        "livello": 2,
+        "categoria": "Abilità",
+        "costo": 1,
+        "titolo": "Reckless",
+        "descrizione": "Segna uno stress per avere Vantaggio in un attacco."
+    },
+    {
+        "id": "card-033",
+        "dominio": "Ossa",
+        "livello": 2,
+        "categoria": "Abilità",
+        "costo": 2,
+        "titolo": "Ferocity",
+        "descrizione": "Quando fai sì che un avversario segni 1 o più Punti Ferita, puoi spendere 2 Speranze per aumentare la tua Schivata di un valore pari ai Punti Ferita che ha segnato. Questo bonus dura fino al termine del prossimo attacco effettuato contro di te."
+    },
+    {
+        "id": "card-034",
+        "dominio": "Ossa",
+        "livello": 2,
+        "categoria": "Abilità",
+        "costo": 1,
+        "titolo": "Strategic Approach",
+        "descrizione": "Dopo un riposo lungo, piazza un numero di segnalini su questa carta pari al tuo punteggio di Knowledge (minimo 1). La prima volta che ti muovi entro Corto raggio da un avversario e lo attacchi, puoi spendere un segnalino per scegliere una delle opzioni sotto. Quando effettui un riposo lungo, rimuovi tutti i segnalini non spesi. <ul><li>Effettui l’attacco con vantaggio</li><li>Rimuovi uno Stress da un alleato entro raggio da mischia dell’avversario</li><li>Aggiungi un d8 al tuo tiro di danno</li></ul>"
     }
   ]
   
