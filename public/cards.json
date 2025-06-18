@@ -223,6 +223,24 @@
         "costo": 0,
         "titolo": "Bare Bones",
         "descrizione": "Quando scegli di non indossare un'armatura, hai un punteggio base di Armatura pari a 3 + la tua Forza e utilizzi le seguenti soglie di danno base: <ul><li><b>Tier 1:</b> 9/19</li><li><b>Tier 2:</b> 11/24</li><li><b>Tier 3:</b> 13/31</li><li><b>Tier 4:</b> 15/38</li></ul>"
+    },
+    {
+        "id": "card-027",
+        "dominio": "Valore",
+        "livello": 1,
+        "categoria": "Abilità",
+        "costo": 0,
+        "titolo": "Forceful Push",
+        "descrizione": "Effettua un attacco con la tua arma principale contro un bersaglio entro portata da mischia. In caso di successo, infliggi danno e lo respingi fino alla portata ravvicinata. In caso di successo con Speranza, aggiungi 1d6 al tuo tiro di danno. Inoltre, puoi spendere 1 Speranza per renderlo temporaneamente Vulnerabile."
+    },
+    {
+        "id": "card-028",
+        "dominio": "Valore",
+        "livello": 1,
+        "categoria": "Abilità",
+        "costo": 1,
+        "titolo": "I Am Your Shield",
+        "descrizione": "Quando un alleato entro portata Molto Ravvicinata sta per subire danni, puoi segnare 1 Stress per frapporre te stesso e diventare il bersaglio dell’attacco al suo posto. Quando subisci danni da questo attacco, puoi segnare un qualsiasi numero di Slot Armatura."
     }
   ]
   
