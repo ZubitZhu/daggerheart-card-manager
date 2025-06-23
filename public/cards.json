@@ -295,6 +295,114 @@
         "costo": 1,
         "titolo": "Strategic Approach",
         "descrizione": "Dopo un riposo lungo, piazza un numero di segnalini su questa carta pari al tuo punteggio di Knowledge (minimo 1). La prima volta che ti muovi entro Corto raggio da un avversario e lo attacchi, puoi spendere un segnalino per scegliere una delle opzioni sotto. Quando effettui un riposo lungo, rimuovi tutti i segnalini non spesi. <ul><li>Effettui l’attacco con vantaggio</li><li>Rimuovi uno Stress da un alleato entro raggio da mischia dell’avversario</li><li>Aggiungi un d8 al tuo tiro di danno</li></ul>"
+    },
+    {
+        "id": "card-035",
+        "dominio": "Codex",
+        "livello": 2,
+        "categoria": "Grimorio",
+        "costo": 2,
+        "titolo": "Book of Sitil",
+        "descrizione": "<b>Adjust Appearance:</b> Modifichi magicamente il tuo aspetto e i tuoi vestiti per evitare di essere riconosciuto. <br><br><b>Parallela:</b> Spendi 2 Speranza per lanciare questo incantesimo su te stesso o su un alleato entro Gittata Ravvicinata. La prossima volta che il bersaglio effettua un attacco, può colpire un bersaglio aggiuntivo entro gittata contro cui il tiro per colpire avrebbe successo. Puoi mantenere questo incantesimo attivo su una sola creatura alla volta.<br><br><b>Mysterious Mist:</b> Effettua un Tiro di Incantare (14). Se ha successo, crei un'illusione visiva temporanea non più grande di te entro Gittata Ravvicinata che dura finché la guardi. Regge a un esame accurato finché un osservatore non si trova entro Gittata da Mischia."
+    },
+    {
+        "id": "card-036",
+        "dominio": "Codex",
+        "livello": 2,
+        "categoria": "Grimorio",
+        "costo": 2,
+        "titolo": "Book of Sitil",
+        "descrizione": "<b>Runic Lock:</b> Effettua un Tiro di Incantare (15) su un oggetto che stai toccando e che può essere chiuso (come una serratura, un forziere o una scatola). Una volta per riposo, con un successo puoi bloccare l’oggetto in modo che possa essere aperto solo da creature di tua scelta. Qualcuno con accesso alla magia e un’ora di tempo per studiare l’incantesimo può romperlo. <br><br><b>Arcane Door:</b> Quando non hai avversari entro Gittata da Mischia, effettua un Tiro di Incantare (13). Con un successo, spendi 1 Speranza per creare un portale dal punto in cui ti trovi a un punto entro Gittata Lontana che puoi vedere. Il portale si chiude dopo che una creatura lo ha attraversato.<br><br><b>Reveal:</b> Effettua un Tiro di Incantare. Se c’è qualcosa di magicamente nascosto entro Gittata Ravvicinata contro cui il tiro avrebbe successo, viene rivelato."
+    },
+    {
+        "id": "card-037",
+        "dominio": "Grazia",
+        "livello": 2,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Tell no lies",
+        "descrizione": "Effettua un Tiro di Incantare contro un bersaglio entro Gittata Molto Ravvicinata. Con un successo, il bersaglio non può mentirti finché rimane entro Gittata Ravvicinata, ma non è obbligato a parlare. Se gli fai una domanda e si rifiuta di rispondere, deve segnare uno Stress e l’effetto termina. Il bersaglio in genere non è consapevole che l’incantesimo è stato lanciato su di lui finché non è costretto a dire la verità."
+    },
+    {
+        "id": "card-038",
+        "dominio": "Grazia",
+        "livello": 2,
+        "categoria": "Abilità",
+        "costo": 2,
+        "titolo": "Troublemaker",
+        "descrizione": "Quando insulti o provochi un bersaglio entro Gittata Lontana, effettua un Tiro di Presenza contro di lui. Una volta per riposo, con un successo, tira un numero di d4 pari alla tua Competenza. Il bersaglio deve segnare Stress pari al risultato più alto ottenuto."
+    },
+    {
+        "id": "card-039",
+        "dominio": "Mezzanotte",
+        "livello": 2,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Midnight Spirit",
+        "descrizione": "Spendi 1 Speranza per evocare uno spirito delle dimensioni di un umano che può muoversi o trasportare oggetti per te fino al tuo prossimo riposo.Puoi anche inviarlo ad attaccare un avversario. In tal caso, effettua un Tiro di Incantare contro un bersaglio entro Gittata Molto Lontana. Con un successo, lo spirito si porta entro Gittata da Mischia con il bersaglio. Tira un numero di d6 pari al tuo tratto di Incantare e infliggi tanti danni magici al bersaglio. Lo spirito poi svanisce. Puoi avere solo uno spirito alla volta."
+    },
+    {
+        "id": "card-040",
+        "dominio": "Mezzanotte",
+        "livello": 2,
+        "categoria": "Incantesimo",
+        "costo": 0,
+        "titolo": "Shadowbind",
+        "descrizione": "Effettua un Tiro di Incantare contro tutti gli avversari entro Gittata Molto Ravvicinata. I bersagli contro cui hai successo sono temporaneamente Immobilizzati, poiché la loro ombra li tiene ancorati al suolo."
+    },
+    {
+        "id": "card-041",
+        "dominio": "Saggio",
+        "livello": 2,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Conjure Swarm",
+        "descrizione": "<b>Coleotteri Corazzati di Tekaira:</b> Segna 1 Stress per evocare coleotteri corazzati che ti circondano. Quando subisci danni, riduci la gravità del danno di una soglia. Puoi spendere 1 Speranza per mantenere i coleotteri evocati anche dopo aver subito danno. <br><br><b>Lucciole di Fuoco:</b> Effettua un Tiro di Incantare contro tutti gli avversari entro Gittata Ravvicinata. Spendi 1 Speranza per infliggere 2d8+3 danni magici ai bersagli contro cui hai avuto successo."
+    },
+    {
+        "id": "card-042",
+        "dominio": "Saggio",
+        "livello": 2,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Natural Familiar",
+        "descrizione": "Spendi 1 Speranza per evocare uno spirito della natura o un piccolo animaletto del bosco al tuo fianco fino al prossimo riposo, finché non lanci di nuovo Famiglio Naturale, o finché il famiglio non viene colpito da un attacco. Se spendi 1 Speranza aggiuntiva, puoi evocare un famiglio volante. Puoi comunicare con lui, effettuare un Tiro di Incantare per comandargli compiti semplici, e segnare 1 Stress per vedere attraverso i suoi occhi. Quando infliggi danni a un avversario entro Gittata da Mischia del tuo famiglio, aggiungi 1d6 al tuo tiro di danno."
+    },
+    {
+        "id": "card-043",
+        "dominio": "Splendore",
+        "livello": 2,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Final Words",
+        "descrizione": "Puoi infondere un cadavere con un momento di vita per parlargli. Effettua un Tiro di Incantare (13). Con un successo accompagnato da Speranza, il cadavere risponde fino a tre domande. Con un successo accompagnato da Paura, il cadavere risponde a una sola domanda. Il cadavere risponde sinceramente, ma non può fornire informazioni che non conosceva in vita. In caso di fallimento, o una volta terminate le risposte, il corpo si riduce in polvere."
+    },
+    {
+        "id": "card-044",
+        "dominio": "Splendore",
+        "livello": 2,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Healing Hands",
+        "descrizione": "Effettua un Tiro di Incantare (13) e scegli una creatura, diversa da te, entro Gittata da Mischia. Con un successo, segna 1 Stress per curare 2 Punti Ferita o 2 Stress al bersaglio. Con un fallimento, segna 1 Stress per curare 1 Punto Ferita o 1 Stress al bersaglio. Non puoi curare lo stesso bersaglio di nuovo fino al tuo prossimo lungo riposo."
+    },
+    {
+        "id": "card-045",
+        "dominio": "Valore",
+        "livello": 2,
+        "categoria": "Abilità",
+        "costo": 1,
+        "titolo": "Body Basher",
+        "descrizione": "Usi tutta la forza del tuo corpo in combattimento. Con un attacco riuscito usando un’arma con Gittata da Mischia, ottieni un bonus al tiro di danno pari al tuo punteggio di Forza."
+    },
+    {
+        "id": "card-046",
+        "dominio": "Valore",
+        "livello": 2,
+        "categoria": "Abilità",
+        "costo": 0,
+        "titolo": "Bold Presence",
+        "descrizione": "Quando effettui un Tiro di Presenza, puoi spendere 1 Speranza per aggiungere il tuo punteggio di Forza al tiro. Inoltre, una volta per riposo, quando stai per ottenere una condizione, puoi descrivere come la tua audace presenza ti aiuta nella situazione ed evitare di acquisire quella condizione."
     }
   ]
   
