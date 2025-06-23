@@ -3,7 +3,7 @@ const JSON_URL = "./public/cards.json"; // Cambia se necessario
 
 let cards = [];
 let selectedCards = [];
-let filters = { dominio: "", livello: "" };
+let filters = { domini: [], livelli: [] };
 let allCardsVisible = true;
 let sortMode = "livello-asc";
 
@@ -31,14 +31,15 @@ function renderFilters() {
   const livelli = [...new Set(cards.map(c => c.livello))].sort((a, b) => a - b);
 
   let html = `
-    <select id="dominio-filter" class="form-select mb-2">
-      <option value="">Tutti i domini</option>
-      ${domini.map(dom => `<option>${dom}</option>`).join("")}
+    <label class="form-label">Filtra per domini</label>
+    <select id="domini-filter" class="form-select mb-2" multiple size="5">
+      ${domini.map(dom => `<option value="${dom}">${dom}</option>`).join("")}
     </select>
-    <select id="livello-filter" class="form-select mb-2">
-      <option value="">Tutti i livelli</option>
-      ${livelli.map(lvl => `<option>${lvl}</option>`).join("")}
+    <label class="form-label">Filtra per livelli</label>
+    <select id="livelli-filter" class="form-select mb-2" multiple size="5">
+      ${livelli.map(lvl => `<option value="${lvl}">${lvl}</option>`).join("")}
     </select>
+    <label class="form-label">Ordina per</label>
     <select id="sort-mode" class="form-select mb-2">
       <option value="livello-asc">Livello crescente</option>
       <option value="livello-desc">Livello decrescente</option>
@@ -47,12 +48,13 @@ function renderFilters() {
   `;
   document.getElementById("filter-panel").innerHTML = html;
 
-  document.getElementById("dominio-filter").onchange = (e) => {
-    filters.dominio = e.target.value;
+  // Multiselect eventi
+  document.getElementById("domini-filter").onchange = (e) => {
+    filters.domini = Array.from(e.target.selectedOptions).map(opt => opt.value);
     renderCards();
   };
-  document.getElementById("livello-filter").onchange = (e) => {
-    filters.livello = e.target.value;
+  document.getElementById("livelli-filter").onchange = (e) => {
+    filters.livelli = Array.from(e.target.selectedOptions).map(opt => Number(opt.value));
     renderCards();
   };
   document.getElementById("sort-mode").onchange = (e) => {
@@ -72,8 +74,8 @@ function renderCards() {
 
   let filtered = cards.filter(card => {
     if (selectedCards.includes(card.id)) return false;
-    if (filters.dominio && card.dominio !== filters.dominio) return false;
-    if (filters.livello && card.livello !== Number(filters.livello)) return false;
+    if (filters.domini.length && !filters.domini.includes(card.dominio)) return false;
+    if (filters.livelli.length && !filters.livelli.includes(card.livello)) return false;
     return true;
   });
 
