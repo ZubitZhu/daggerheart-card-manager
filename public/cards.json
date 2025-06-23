@@ -5,7 +5,7 @@
       "livello": 1,
       "categoria": "Incantesimo",
       "costo": 0,
-      "titolo": "Rune Ward",
+      "titolo": "Cimelio Runico",
       "descrizione": "Hai un cimelio profondamente personale che può essere infuso con magia protettiva e tenuto come talismano sia da te che da un alleato. Descrivi cos’è e perché è importante per te. Chiunque tenga il talismano può spendere un punto Speranza per ridurre i danni subiti di 1d8.  Se il risultato del dado è 8, il potere del talismano termina dopo aver ridotto i danni in questo turno. Può essere ricaricato gratuitamente durante il prossimo riposo."
     },
     {
@@ -14,7 +14,7 @@
         "livello": 1,
         "categoria": "Incantesimo",
         "costo": 1,
-        "titolo": "Unleash Chaos",
+        "titolo": "Scatenare il Caos",
         "descrizione": "All’inizio di una sessione, metti un numero di segnalini su questa carta pari al tuo tratto Incantesimo (Spellcast).  Fai un Tiro di Incantesimo contro un bersaglio entro Lunga distanza e spendi qualsiasi numero di segnalini per incanalare l’energia grezza dentro di te e scagliarla contro il bersaglio. In caso di successo, tira un numero di d10 pari ai segnalini spesi e infliggi al bersaglio una quantità di danni magici pari al risultato. Segna uno Stress per ricaricare questa carta con segnalini (fino al valore del tuo tratto Incantesimo).  Alla fine di ogni sessione, rimuovi tutti i segnalini non utilizzati."
     },
     {
@@ -23,7 +23,7 @@
         "livello": 1,
         "categoria": "Incantesimo",
         "costo": 1,
-        "titolo": "Wall Walk",
+        "titolo": "Camminata sui Muri",
         "descrizione": "Spendi un Punto Speranza per permettere ad una creatura che tocchi di arrampicarsi su muri e soffitti come se stesse camminando a terra. Dura fino alla fine della scena o finchè non lanci di nuovo questo incantesimo."
     },
     {
@@ -32,7 +32,7 @@
         "livello": 1,
         "categoria": "Abilità",
         "costo": 1,
-        "titolo": "Gat Back Up",
+        "titolo": "In Piedi!",
         "descrizione": "Quando prendi danni Gravi (3HP), puoi marcare uno Stress ed abbassare la gravità del danno di un livello."
     },
     {
@@ -41,7 +41,7 @@
         "livello": 1,
         "categoria": "Abilità",
         "costo": 1,
-        "titolo": "Not Good Enough",
+        "titolo": "Non abbastanza",
         "descrizione": "Quando tiri per i danni, puoi re-rollare ogni risultato 1 e 2."
     },
     {
@@ -50,7 +50,7 @@
         "livello": 1,
         "categoria": "Abilità",
         "costo": 0,
-        "titolo": "Whirlwind",
+        "titolo": "Mulinello",
         "descrizione": "Quando effettui un attacco con successo contro un bersaglio entro Distanza Molto Ravvicinata, puoi spendere un punto Speranza per usare lo stesso attacco contro tutti gli altri bersagli entro Distanza Molto Ravvicinata. Tutti gli avversari aggiuntivi colpiti con questa abilità subiscono la metà dei danni."
     },
     {
@@ -59,7 +59,7 @@
         "livello": 1,
         "categoria": "Abilità",
         "costo": 0,
-        "titolo": "Deft Maneuvers",
+        "titolo": "Manovre Scaltre",
         "descrizione": "Una volta per riposo, segnare uno Stress per scattare ovunque entro Lunga distanza senza dover effettuare un Tiro di Agilità per arrivarci.  Se termini questo movimento entro distanza da mischia da un avversario e attacchi immediatamente, ottieni un +1 al tiro per colpire."
     },
     {
@@ -68,7 +68,7 @@
         "livello": 1,
         "categoria": "Abilità",
         "costo": 1,
-        "titolo": "I See It Coming",
+        "titolo": "Lo Sapevo!",
         "descrizione": "Quando sei bersaglio di un attacco effettuato oltre il range Melee, puoi segnarti 1 Stress per tirare un d4 e aggungerlo alla tua Evasione contro l'attacco corrente."
     },
     {
@@ -77,7 +77,7 @@
         "livello": 1,
         "categoria": "Abilità",
         "costo": 1,
-        "titolo": "Untouchable",
+        "titolo": "Intoccabile",
         "descrizione": "Guadagni un bonus Evasione pari a metà del tuo valore di agilità."
     },
     {
@@ -86,8 +86,8 @@
         "livello": 1,
         "categoria": "Grimorio",
         "costo": 2,
-        "titolo": "Book of Ava",
-        "descrizione": "<b>Power Push:</b> Effettua un Tiro di Incantesimo contro un bersaglio entro distanza da mischia. Se ha successo, viene respinto fino a distanza Lunga e subisce d10+2 danni magici, usando la tua Competenza.<br><br><b>Tava's Armor:</b> Spendi un punto Speranza per dare a un bersaglio che puoi toccare un bonus di +1 al suo punteggio Armatura, fino al suo prossimo riposo o finché non lanci di nuovo Armatura di Tava.<br><br><b>Ice Spike:</b> Effettua un Tiro di Incantesimo (12) per evocare una grande punta di ghiaccio entro distanza Lunga. Se la usi come arma, effettua il Tiro di Incantesimo contro la Difficoltà del bersaglio invece. Se ha successo, infliggi d6 danni fisici usando la tua Competenza."
+        "titolo": "Libro di Ava",
+        "descrizione": "<b>Spinta Potente:</b> Effettua un Tiro di Incantesimo contro un bersaglio entro distanza da mischia. Se ha successo, viene respinto fino a distanza Lunga e subisce d10+2 danni magici, usando la tua Competenza.<br><br><b>Armatura di Tava:</b> Spendi un punto Speranza per dare a un bersaglio che puoi toccare un bonus di +1 al suo punteggio Armatura, fino al suo prossimo riposo o finché non lanci di nuovo Armatura di Tava.<br><br><b>Aculei di Ghiaccio:</b> Effettua un Tiro di Incantesimo (12) per evocare una grande punta di ghiaccio entro distanza Lunga. Se la usi come arma, effettua il Tiro di Incantesimo contro la Difficoltà del bersaglio invece. Se ha successo, infliggi d6 danni fisici usando la tua Competenza."
     },
     {
         "id": "card-012",
@@ -95,8 +95,8 @@
         "livello": 1,
         "categoria": "Grimorio",
         "costo": 2,
-        "titolo": "Book of Illiat",
-        "descrizione": "<b>Slumber:</b> Effettua un Tiro di Incantesimo contro un bersaglio entro distanza Molto Ravvicinata. In caso di successo, il bersaglio cade Addormentato finché non subisce danni o il GM spende un punto Paura nel suo turno per rimuovere questa condizione.<br><br><b>Arcane Barrage:</b> Una volta per riposo, spendi qualsiasi quantità di punti Speranza e lancia proiettili magici che colpiscono un bersaglio a tua scelta entro distanza Ravvicinata. Tira un numero di d6 pari ai punti Speranza spesi e infliggi al bersaglio tanti danni magici quanti sono i risultati dei dadi. <br><br><b>Telepathy:</b> Spendi un punto Speranza per aprire una linea di comunicazione mentale con un bersaglio che puoi vedere. Questa connessione dura fino al tuo prossimo riposo o finché non lanci nuovamente Telepatia."
+        "titolo": "Libro di Illiat",
+        "descrizione": "<b>Sonno:</b> Effettua un Tiro di Incantesimo contro un bersaglio entro distanza Molto Ravvicinata. In caso di successo, il bersaglio cade Addormentato finché non subisce danni o il GM spende un punto Paura nel suo turno per rimuovere questa condizione.<br><br><b>Raffica Arcana:</b> Una volta per riposo, spendi qualsiasi quantità di punti Speranza e lancia proiettili magici che colpiscono un bersaglio a tua scelta entro distanza Ravvicinata. Tira un numero di d6 pari ai punti Speranza spesi e infliggi al bersaglio tanti danni magici quanti sono i risultati dei dadi. <br><br><b>Telepatia:</b> Spendi un punto Speranza per aprire una linea di comunicazione mentale con un bersaglio che puoi vedere. Questa connessione dura fino al tuo prossimo riposo o finché non lanci nuovamente Telepatia."
     },
     {
         "id": "card-013",
@@ -104,8 +104,8 @@
         "livello": 1,
         "categoria": "Grimorio",
         "costo": 2,
-        "titolo": "Book of Tyfar",
-        "descrizione": "<b>Wild Flame:</b> Effettua un Tiro di Incantesimo contro un massimo di tre avversari entro distanza da mischia. I bersagli contro cui hai successo subiscono 2d6 danni magici e devono segnare uno Stress mentre le fiamme erompono dalla tua mano. <br><br><b>Magic Hand:</b> Evochi una mano magica delle stesse dimensioni e forza della tua entro distanza Lunga.<br><br><b>Mysterious Mist:</b> Effettua un Tiro di Incantesimo (13) per creare una nebbia temporanea e densa che si raccoglie in un’area stazionaria entro distanza Molto Ravvicinata. La nebbia oscura pesantemente quest’area e tutto ciò che vi si trova all’interno."
+        "titolo": "Libro di Tyfar",
+        "descrizione": "<b>Fiamma Selvaggia:</b> Effettua un Tiro di Incantesimo contro un massimo di tre avversari entro distanza da mischia. I bersagli contro cui hai successo subiscono 2d6 danni magici e devono segnare uno Stress mentre le fiamme erompono dalla tua mano. <br><br><b>Mano Magica:</b> Evochi una mano magica delle stesse dimensioni e forza della tua entro distanza Lunga.<br><br><b>Nebbia Misteriosa:</b> Effettua un Tiro di Incantesimo (13) per creare una nebbia temporanea e densa che si raccoglie in un’area stazionaria entro distanza Molto Ravvicinata. La nebbia oscura pesantemente quest’area e tutto ciò che vi si trova all’interno."
     },
     {
         "id": "card-014",
@@ -113,7 +113,7 @@
         "livello": 1,
         "categoria": "Abilità",
         "costo": 0,
-        "titolo": "Deft Deceiver",
+        "titolo": "Imbroglione",
         "descrizione": "Spendi un punto Speranza per ottenere vantaggio su un tiro per ingannare o convincere qualcuno a credere a una tua bugia."
     },
     {
@@ -122,7 +122,7 @@
         "livello": 1,
         "categoria": "Incantesimo",
         "costo": 0,
-        "titolo": "Enrapture",
+        "titolo": "Fascino Ipnotico",
         "descrizione": "Effettua un Tiro di Incantesimo contro un bersaglio entro distanza Ravvicinata. In caso di successo, il bersaglio diventa Temporaneamente Incantato. Mentre è Incantato, l’attenzione del bersaglio è fissata su di te, il suo campo visivo si restringe e ogni altro suono viene escluso tranne la tua voce. Una volta per riposo, in caso di successo, puoi segnare uno Stress per costringere anche il bersaglio Incantato a segnare uno Stress."
     },
     {
@@ -131,7 +131,7 @@
         "livello": 1,
         "categoria": "Abilità",
         "costo": 1,
-        "titolo": "Inspirational Words",
+        "titolo": "Parole Ispiranti",
         "descrizione": "La tua parola è intrisa di potere. Dopo un lungo riposo, metti un numero di segnalini su questa carta pari al tuo valore di Presenza. Quando parli con un alleato, puoi spendere un segnalino da questa carta per dargli uno dei seguenti benefici:<br><ul><li>Il tuo alleato rimuove uno stress</li><li>Il tuo alleato recupera un Punto Ferita</li><li>Il tuo alleato ottiene un Punto Speranza</li></ul>. Quando effettui un riposo lungo, rimuovi tutti i segnalini non spesi."
     },
     {
@@ -140,7 +140,7 @@
         "livello": 1,
         "categoria": "Abilità",
         "costo": 0,
-        "titolo": "Pick and Pull",
+        "titolo": "Mano Lesta",
         "descrizione": "Hai vantaggio nei tiri d’azione per scassinare serrature non magiche, disinnescare trappole non magiche o rubare oggetti da un bersaglio (sia furtivamente che con la forza)."
     },
     {
@@ -149,7 +149,7 @@
         "livello": 1,
         "categoria": "Incantesimo",
         "costo": 1,
-        "titolo": "Rain of Blades",
+        "titolo": "Pioggia di Spade",
         "descrizione": "Spendi un punto Speranza per effettuare un Tiro di Incantesimo ed evocare lame da lancio che colpiscono tutti i bersagli entro distanza Molto Ravvicinata. I bersagli contro cui hai successo subiscono d8+2 danni magici, usando la tua Competenza. Se un bersaglio colpito è Vulnerabile, subisce 1d8 danni extra."
     },
     {
@@ -158,7 +158,7 @@
         "livello": 1,
         "categoria": "Incantesimo",
         "costo": 0,
-        "titolo": "Uncanny Disguise",
+        "titolo": "Travestimento Inquetante",
         "descrizione": "Quando hai a disposizione qualche minuto per prepararti, puoi segnare uno Stress per assumere le sembianze di qualsiasi umanoide tu riesca a visualizzare chiaramente nella tua mente. Mentre sei travestito, hai vantaggio ai tiri di Presenza per evitare di essere scoperto. Metti su questa carta un numero di segnalini pari al tuo tratto da Incantatore. Quando compi un’azione mentre sei travestito, spendi un segnalino da questa carta. Dopo che l’azione che consuma l’ultimo segnalino è stata risolta, il travestimento svanisce."
     },
     {
@@ -167,7 +167,7 @@
         "livello": 1,
         "categoria": "Abilità",
         "costo": 0,
-        "titolo": "Gifted Tracker",
+        "titolo": "Abile Inseguitore",
         "descrizione": "Quando stai cercando di seguire una creatura specifica o un gruppo di creature basandoti su tracce del loro passaggio, puoi spendere un numero qualsiasi di Punti Speranza e porre al GM la stessa quantità di domande dalla seguente lista.<br><ul><li>In quale direzione sono andati?</li><li>Quanto tempo fa sono passati da qui?</li><li>Cosa stavano facendo qui?</li><li>Quanti sono?</li></ul><br>Quando incontri le creature che stavi seguendo, guadagni un bonus +1 all'Evasione contro di loro."
     },
     {
@@ -176,7 +176,7 @@
         "livello": 1,
         "categoria": "Abilità",
         "costo": 0,
-        "titolo": "Nature's Tongue",
+        "titolo": "Lingua della Natura",
         "descrizione": "Puoi parlare la lingua della natura. Quando vuoi parlare con le piante e gli animali intorno a te, fai un tiro di Istinto (12). Con un successo, ti diranno ciò che sanno. Con un tiro con Paura, la loro conoscenza potrebbe essere limitata o avere un costo. Inoltre, prima di fare il tiro mentre sei in un ambiente naturale, puoi spendere un Punto Speranza per aggiungere +2 come bonus al tiro."
     },
     {
@@ -185,7 +185,7 @@
         "livello": 1,
         "categoria": "Incantesimo",
         "costo": 0,
-        "titolo": "Vicious Entangle",
+        "titolo": "Intrappolamento Ferale",
         "descrizione": "Fai un Tiro di Incantesimo contro un bersaglio a entro distanza Lontana. Con un successo, radici e rovi fuoriescono dal suolo, infliggendo 1d8+1 danni fisici e <b>Trattenere</b> il bersaglio. Inoltre, con un successo, puoi spendere un Punto Speranza per <b>Trattenere</b> temporaneamente un altro avversario a distanza Molto Vicina dal tuo bersaglio."
     },
     {
@@ -194,7 +194,7 @@
         "livello": 1,
         "categoria": "Incantesimo",
         "costo": 1,
-        "titolo": "Bolt Beacon",
+        "titolo": "Dardo Scintillante",
         "descrizione": "Fai un Tiro di Incantesimo contro un bersaglio entro distanza Lontana. Con un successo, spendi un Punto Speranza per lanciare contro di loro un dardo di luce scintillante, infliggendo d8+2 danni magici usando la tua <b>Competenza</b>. L'avversario diventa temporaneamente <b>Vulnerabile</b> ed emette un bagliore finchè la condizione non termina."
     },
     {
@@ -203,7 +203,7 @@
         "livello": 1,
         "categoria": "Incantesimo",
         "costo": 1,
-        "titolo": "Mending Touch",
+        "titolo": "Tocco Riparatore",
         "descrizione": "Posi le mani su una creatura e canalizzi magia curativa per chiudere le sue ferite. Quando puoi prenderti qualche minuto per concentrarti sul bersaglio che stai aiutando, puoi spendere 2 Speranza per rimuovere 1 Punto Ferita o 1 Stress da loro. Una volta per ogni riposo lungo, quando usi questo tempo di guarigione per imparare qualcosa di nuovo su di loro o rivelare qualcosa di te stesso, puoi invece rimuovere 2 Punti Ferita o 2 Stress da loro."
     },
     {
@@ -212,7 +212,7 @@
         "livello": 1,
         "categoria": "Abilità",
         "costo": 0,
-        "titolo": "Reassurance",
+        "titolo": "Rassicurare",
         "descrizione": "Una volta per riposo, dopo che un alleato ha tentato un tiro di azione ma prima che si applichino le conseguenze, puoi offrire assistenza o parole di incoraggiamento. Quando lo fai, il tuo alleato può ritirare i dadi."
     },
     {
@@ -221,7 +221,7 @@
         "livello": 1,
         "categoria": "Abilità",
         "costo": 0,
-        "titolo": "Bare Bones",
+        "titolo": "Carne ed Ossa",
         "descrizione": "Quando scegli di non indossare un'armatura, hai un punteggio base di Armatura pari a 3 + la tua Forza e utilizzi le seguenti soglie di danno base: <ul><li><b>Tier 1:</b> 9/19</li><li><b>Tier 2:</b> 11/24</li><li><b>Tier 3:</b> 13/31</li><li><b>Tier 4:</b> 15/38</li></ul>"
     },
     {
@@ -230,7 +230,7 @@
         "livello": 1,
         "categoria": "Abilità",
         "costo": 0,
-        "titolo": "Forceful Push",
+        "titolo": "Spinta Forzuta",
         "descrizione": "Effettua un attacco con la tua arma principale contro un bersaglio entro portata da mischia. In caso di successo, infliggi danno e lo respingi fino alla portata ravvicinata. In caso di successo con Speranza, aggiungi 1d6 al tuo tiro di danno. Inoltre, puoi spendere 1 Speranza per renderlo temporaneamente Vulnerabile."
     },
     {
@@ -239,7 +239,7 @@
         "livello": 1,
         "categoria": "Abilità",
         "costo": 1,
-        "titolo": "I Am Your Shield",
+        "titolo": "Sono il tuo Scudo",
         "descrizione": "Quando un alleato entro portata Molto Ravvicinata sta per subire danni, puoi segnare 1 Stress per frapporre te stesso e diventare il bersaglio dell’attacco al suo posto. Quando subisci danni da questo attacco, puoi segnare un qualsiasi numero di Slot Armatura."
     },
     {
@@ -248,7 +248,7 @@
         "livello": 2,
         "categoria": "Incantesimo",
         "costo": 1,
-        "titolo": "Cinder Grasp",
+        "titolo": "Presa Bruciante",
         "descrizione": "Effettua un Tiro di Incantesimo contro un bersaglio nel raggio da mischia. In caso di successo, il bersaglio prende immediatamente fuoco, subisce 1d20+3 danni magici ed è temporaneamente In Fiamme. Quando una creatura agisce mentre è In Fiamme, deve subire 2d6 danni magici aggiuntivi se è ancora In Fiamme alla fine della sua azione."
     },
     {
@@ -257,7 +257,7 @@
         "livello": 2,
         "categoria": "Incantesimo",
         "costo": 0,
-        "titolo": "Floating Eye",
+        "titolo": "Occhio Fluttuante",
         "descrizione": "Spendi una Speranza per creare una piccola sfera fluttuante che puoi muovere ovunque entro un raggio Molto Lontano. Finché questo incantesimo è attivo, puoi vedere attraverso la sfera come se stessi guardando dal suo punto di vista. Puoi passare liberamente tra l’uso dei tuoi sensi e la visione tramite la sfera. Se la sfera subisce danni o si allontana troppo, l’incantesimo termina."
     },
     {
@@ -266,7 +266,7 @@
         "livello": 2,
         "categoria": "Abilità",
         "costo": 1,
-        "titolo": "A Soldier's Bond",
+        "titolo": "Il Legame di un Soldato",
         "descrizione": "Una volta per ogni riposo lungo, quando fai un complimento a qualcuno o gli chiedi qualcosa in cui sono bravi, entrambi potete guadagnare 3 Speranze."
     },
     {
@@ -275,7 +275,7 @@
         "livello": 2,
         "categoria": "Abilità",
         "costo": 1,
-        "titolo": "Reckless",
+        "titolo": "Irruento",
         "descrizione": "Segna uno stress per avere Vantaggio in un attacco."
     },
     {
@@ -284,7 +284,7 @@
         "livello": 2,
         "categoria": "Abilità",
         "costo": 2,
-        "titolo": "Ferocity",
+        "titolo": "Ferocia",
         "descrizione": "Quando fai sì che un avversario segni 1 o più Punti Ferita, puoi spendere 2 Speranze per aumentare la tua Schivata di un valore pari ai Punti Ferita che ha segnato. Questo bonus dura fino al termine del prossimo attacco effettuato contro di te."
     },
     {
@@ -293,7 +293,7 @@
         "livello": 2,
         "categoria": "Abilità",
         "costo": 1,
-        "titolo": "Strategic Approach",
+        "titolo": "Approccio Strategico",
         "descrizione": "Dopo un riposo lungo, piazza un numero di segnalini su questa carta pari al tuo punteggio di Knowledge (minimo 1). La prima volta che ti muovi entro Corto raggio da un avversario e lo attacchi, puoi spendere un segnalino per scegliere una delle opzioni sotto. Quando effettui un riposo lungo, rimuovi tutti i segnalini non spesi. <ul><li>Effettui l’attacco con vantaggio</li><li>Rimuovi uno Stress da un alleato entro raggio da mischia dell’avversario</li><li>Aggiungi un d8 al tuo tiro di danno</li></ul>"
     },
     {
@@ -302,8 +302,8 @@
         "livello": 2,
         "categoria": "Grimorio",
         "costo": 2,
-        "titolo": "Book of Sitil",
-        "descrizione": "<b>Adjust Appearance:</b> Modifichi magicamente il tuo aspetto e i tuoi vestiti per evitare di essere riconosciuto. <br><br><b>Parallela:</b> Spendi 2 Speranza per lanciare questo incantesimo su te stesso o su un alleato entro Gittata Ravvicinata. La prossima volta che il bersaglio effettua un attacco, può colpire un bersaglio aggiuntivo entro gittata contro cui il tiro per colpire avrebbe successo. Puoi mantenere questo incantesimo attivo su una sola creatura alla volta.<br><br><b>Mysterious Mist:</b> Effettua un Tiro di Incantare (14). Se ha successo, crei un'illusione visiva temporanea non più grande di te entro Gittata Ravvicinata che dura finché la guardi. Regge a un esame accurato finché un osservatore non si trova entro Gittata da Mischia."
+        "titolo": "Libro di Sitil",
+        "descrizione": "<b>Correggi Aspetto:</b> Modifichi magicamente il tuo aspetto e i tuoi vestiti per evitare di essere riconosciuto. <br><br><b>Parallela:</b> Spendi 2 Speranza per lanciare questo incantesimo su te stesso o su un alleato entro Gittata Ravvicinata. La prossima volta che il bersaglio effettua un attacco, può colpire un bersaglio aggiuntivo entro gittata contro cui il tiro per colpire avrebbe successo. Puoi mantenere questo incantesimo attivo su una sola creatura alla volta.<br><br><b>Illusione:</b> Effettua un Tiro di Incantare (14). Se ha successo, crei un'illusione visiva temporanea non più grande di te entro Gittata Ravvicinata che dura finché la guardi. Regge a un esame accurato finché un osservatore non si trova entro Gittata da Mischia."
     },
     {
         "id": "card-036",
@@ -311,8 +311,8 @@
         "livello": 2,
         "categoria": "Grimorio",
         "costo": 2,
-        "titolo": "Book of Sitil",
-        "descrizione": "<b>Runic Lock:</b> Effettua un Tiro di Incantare (15) su un oggetto che stai toccando e che può essere chiuso (come una serratura, un forziere o una scatola). Una volta per riposo, con un successo puoi bloccare l’oggetto in modo che possa essere aperto solo da creature di tua scelta. Qualcuno con accesso alla magia e un’ora di tempo per studiare l’incantesimo può romperlo. <br><br><b>Arcane Door:</b> Quando non hai avversari entro Gittata da Mischia, effettua un Tiro di Incantare (13). Con un successo, spendi 1 Speranza per creare un portale dal punto in cui ti trovi a un punto entro Gittata Lontana che puoi vedere. Il portale si chiude dopo che una creatura lo ha attraversato.<br><br><b>Reveal:</b> Effettua un Tiro di Incantare. Se c’è qualcosa di magicamente nascosto entro Gittata Ravvicinata contro cui il tiro avrebbe successo, viene rivelato."
+        "titolo": "Libro di Vagras",
+        "descrizione": "<b>Lucchetto Runico:</b> Effettua un Tiro di Incantare (15) su un oggetto che stai toccando e che può essere chiuso (come una serratura, un forziere o una scatola). Una volta per riposo, con un successo puoi bloccare l’oggetto in modo che possa essere aperto solo da creature di tua scelta. Qualcuno con accesso alla magia e un’ora di tempo per studiare l’incantesimo può romperlo. <br><br><b>Porta Arcana:</b> Quando non hai avversari entro Gittata da Mischia, effettua un Tiro di Incantare (13). Con un successo, spendi 1 Speranza per creare un portale dal punto in cui ti trovi a un punto entro Gittata Lontana che puoi vedere. Il portale si chiude dopo che una creatura lo ha attraversato.<br><br><b>Rivelare:</b> Effettua un Tiro di Incantare. Se c’è qualcosa di magicamente nascosto entro Gittata Ravvicinata contro cui il tiro avrebbe successo, viene rivelato."
     },
     {
         "id": "card-037",
@@ -320,7 +320,7 @@
         "livello": 2,
         "categoria": "Incantesimo",
         "costo": 1,
-        "titolo": "Tell no lies",
+        "titolo": "Non Mentire",
         "descrizione": "Effettua un Tiro di Incantare contro un bersaglio entro Gittata Molto Ravvicinata. Con un successo, il bersaglio non può mentirti finché rimane entro Gittata Ravvicinata, ma non è obbligato a parlare. Se gli fai una domanda e si rifiuta di rispondere, deve segnare uno Stress e l’effetto termina. Il bersaglio in genere non è consapevole che l’incantesimo è stato lanciato su di lui finché non è costretto a dire la verità."
     },
     {
@@ -329,7 +329,7 @@
         "livello": 2,
         "categoria": "Abilità",
         "costo": 2,
-        "titolo": "Troublemaker",
+        "titolo": "Combinaguai",
         "descrizione": "Quando insulti o provochi un bersaglio entro Gittata Lontana, effettua un Tiro di Presenza contro di lui. Una volta per riposo, con un successo, tira un numero di d4 pari alla tua Competenza. Il bersaglio deve segnare Stress pari al risultato più alto ottenuto."
     },
     {
@@ -338,7 +338,7 @@
         "livello": 2,
         "categoria": "Incantesimo",
         "costo": 1,
-        "titolo": "Midnight Spirit",
+        "titolo": "Spirito di Mezzanotte",
         "descrizione": "Spendi 1 Speranza per evocare uno spirito delle dimensioni di un umano che può muoversi o trasportare oggetti per te fino al tuo prossimo riposo.Puoi anche inviarlo ad attaccare un avversario. In tal caso, effettua un Tiro di Incantare contro un bersaglio entro Gittata Molto Lontana. Con un successo, lo spirito si porta entro Gittata da Mischia con il bersaglio. Tira un numero di d6 pari al tuo tratto di Incantare e infliggi tanti danni magici al bersaglio. Lo spirito poi svanisce. Puoi avere solo uno spirito alla volta."
     },
     {
@@ -347,7 +347,7 @@
         "livello": 2,
         "categoria": "Incantesimo",
         "costo": 0,
-        "titolo": "Shadowbind",
+        "titolo": "Ombra Intrappolante",
         "descrizione": "Effettua un Tiro di Incantare contro tutti gli avversari entro Gittata Molto Ravvicinata. I bersagli contro cui hai successo sono temporaneamente Immobilizzati, poiché la loro ombra li tiene ancorati al suolo."
     },
     {
@@ -356,7 +356,7 @@
         "livello": 2,
         "categoria": "Incantesimo",
         "costo": 1,
-        "titolo": "Conjure Swarm",
+        "titolo": "Evoca Sciame",
         "descrizione": "<b>Coleotteri Corazzati di Tekaira:</b> Segna 1 Stress per evocare coleotteri corazzati che ti circondano. Quando subisci danni, riduci la gravità del danno di una soglia. Puoi spendere 1 Speranza per mantenere i coleotteri evocati anche dopo aver subito danno. <br><br><b>Lucciole di Fuoco:</b> Effettua un Tiro di Incantare contro tutti gli avversari entro Gittata Ravvicinata. Spendi 1 Speranza per infliggere 2d8+3 danni magici ai bersagli contro cui hai avuto successo."
     },
     {
@@ -365,7 +365,7 @@
         "livello": 2,
         "categoria": "Incantesimo",
         "costo": 1,
-        "titolo": "Natural Familiar",
+        "titolo": "Famiglio Naturale",
         "descrizione": "Spendi 1 Speranza per evocare uno spirito della natura o un piccolo animaletto del bosco al tuo fianco fino al prossimo riposo, finché non lanci di nuovo Famiglio Naturale, o finché il famiglio non viene colpito da un attacco. Se spendi 1 Speranza aggiuntiva, puoi evocare un famiglio volante. Puoi comunicare con lui, effettuare un Tiro di Incantare per comandargli compiti semplici, e segnare 1 Stress per vedere attraverso i suoi occhi. Quando infliggi danni a un avversario entro Gittata da Mischia del tuo famiglio, aggiungi 1d6 al tuo tiro di danno."
     },
     {
@@ -374,7 +374,7 @@
         "livello": 2,
         "categoria": "Incantesimo",
         "costo": 1,
-        "titolo": "Final Words",
+        "titolo": "Parole Finali",
         "descrizione": "Puoi infondere un cadavere con un momento di vita per parlargli. Effettua un Tiro di Incantare (13). Con un successo accompagnato da Speranza, il cadavere risponde fino a tre domande. Con un successo accompagnato da Paura, il cadavere risponde a una sola domanda. Il cadavere risponde sinceramente, ma non può fornire informazioni che non conosceva in vita. In caso di fallimento, o una volta terminate le risposte, il corpo si riduce in polvere."
     },
     {
@@ -383,7 +383,7 @@
         "livello": 2,
         "categoria": "Incantesimo",
         "costo": 1,
-        "titolo": "Healing Hands",
+        "titolo": "Mani Guaritrici",
         "descrizione": "Effettua un Tiro di Incantare (13) e scegli una creatura, diversa da te, entro Gittata da Mischia. Con un successo, segna 1 Stress per curare 2 Punti Ferita o 2 Stress al bersaglio. Con un fallimento, segna 1 Stress per curare 1 Punto Ferita o 1 Stress al bersaglio. Non puoi curare lo stesso bersaglio di nuovo fino al tuo prossimo lungo riposo."
     },
     {
@@ -392,7 +392,7 @@
         "livello": 2,
         "categoria": "Abilità",
         "costo": 1,
-        "titolo": "Body Basher",
+        "titolo": "Spacca-Corpi",
         "descrizione": "Usi tutta la forza del tuo corpo in combattimento. Con un attacco riuscito usando un’arma con Gittata da Mischia, ottieni un bonus al tiro di danno pari al tuo punteggio di Forza."
     },
     {
@@ -401,7 +401,7 @@
         "livello": 2,
         "categoria": "Abilità",
         "costo": 0,
-        "titolo": "Bold Presence",
+        "titolo": "Presenza Imponente",
         "descrizione": "Quando effettui un Tiro di Presenza, puoi spendere 1 Speranza per aggiungere il tuo punteggio di Forza al tiro. Inoltre, una volta per riposo, quando stai per ottenere una condizione, puoi descrivere come la tua audace presenza ti aiuta nella situazione ed evitare di acquisire quella condizione."
     },
     {
@@ -457,6 +457,114 @@
         "costo": 1,
         "titolo": "Tattico",
         "descrizione": "Quando Aiuti un Alleato, questi può spendere 1 Speranza per aggiungere uno dei tuoi Esperienze al loro tiro, accanto al proprio dado di vantaggio. Quando effettui un Tiro di Squadra, puoi tirare un d20 come tuo dado di Speranza."
+    },
+    {
+        "id": "card-053",
+        "dominio": "Codex",
+        "livello": 3,
+        "categoria": "Grimorio",
+        "costo": 2,
+        "titolo": "Libro di Korvax",
+        "descrizione": "<b>Levitazione:</b> Fai un Tiro di Incantesimo per sollevare temporaneamente un bersaglio che puoi vedere verso l'alto e spostarlo entro Portata Ravvicinata dalla sua posizione originale. <br><br><b>Richiamo del Passato:</b> Costringi un bersaglio entro Portata da Mischia a effettuare un Tiro di Reazione (CD 15). In caso di fallimento, dimentica l'ultimo minuto della vostra conversazione.<br><br><b>Cerchio Runico:</b> Segna 1 Stress per creare un cerchio magico temporaneo sul terreno dove ti trovi. Tutti gli avversari entro Portata da Mischia, o che vi entrano, subiscono 2d12+4 danni magici e vengono respinti fino a Portata Molto Ravvicinata."
+    },
+    {
+        "id": "card-054",
+        "dominio": "Codex",
+        "livello": 3,
+        "categoria": "Grimorio",
+        "costo": 2,
+        "titolo": "Libro di Norai",
+        "descrizione": "<b>Legame Mistico:</b> Fai un Tiro di Incantesimo contro un bersaglio entro Portata Lontana. In caso di successo, è Temporaneamente Immobilizzato e deve segnare 1 Stress. Se il bersaglio sta volando, l'incantesimo lo fa cadere e lo immobilizza temporaneamente. <br><br><b>Palla di Fuoco:</b> Fai un Tiro di Incantesimo contro un bersaglio entro Portata Molto Lontana. In caso di successo, lanci una sfera di fuoco che esplode all'impatto. Il bersaglio e tutte le creature entro Portata Molto Ravvicinata da lui devono fare un Tiro di Reazione (CD 13). I bersagli che falliscono subiscono 1d20+5 danni magici, quelli che riescono ne subiscono la metà. Usa il tuo Bonus di Competenza per i danni."
+    },
+    {
+        "id": "card-055",
+        "dominio": "Grazia",
+        "livello": 3,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Scintillio Ipnotico",
+        "descrizione": "Fai un Tiro di Incantesimo contro tutti gli avversari davanti a te entro Portata Ravvicinata. Una volta per bersaglio, in caso di successo, crea un'illusione di colori e luci lampeggianti che li Stordisce Temporaneamente e segna 1 Stress. Mentre sono Storditi, non possono effettuare azioni finché non rimuovono questa condizione."
+    },
+    {
+        "id": "card-056",
+        "dominio": "Grazia",
+        "livello": 3,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Scintillio Ipnotico",
+        "descrizione": "Fai un Tiro di Incantesimo (CD 10). In caso di successo, segna 1 Stress e scegli te stesso o un alleato entro Portata da Mischia da rendere Invisibile. Un bersaglio invisibile non può essere visto tranne che con mezzi magici e gli attacchi contro di esso hanno svantaggio. Metti un segnalino su questa carta per rappresentare l’Invisibilità. Quando la creatura invisibile effettua un’azione, sposta il segnalino: se compie un'azione che richiede un tiro, l'effetto termina. Puoi rendere invisibile solo una creatura alla volta."
+    },
+    {
+        "id": "card-057",
+        "dominio": "Mezzanotte",
+        "livello": 3,
+        "categoria": "Abilità",
+        "costo": 1,
+        "titolo": "Stretta al collo",
+        "descrizione": "Quando ti posizioni dietro una creatura della tua taglia o più piccola, puoi segnare 1 Stress per trascinarla in una stretta, rendendola Temporaneamente Vulnerabile. Quando una creatura attacca un bersaglio Vulnerabile in questo modo, infligge 2d6 danni extra."
+    },
+    {
+        "id": "card-058",
+        "dominio": "Mezzanotte",
+        "livello": 3,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Velo della notte",
+        "descrizione": "Fai un Tiro di Incantesimo (CD 13). In caso di successo, puoi creare un velo temporaneo di oscurità tra due punti entro Portata Lontana. Solo tu puoi vedere attraverso questa oscurità. I nemici che sono Nascosti da questa oscurità ricevono vantaggio negli attacchi, mentre quelli che passano attraverso di essa ricevono svantaggio. Il velo dura finché non lanci un altro incantesimo."
+    },
+    {
+        "id": "card-059",
+        "dominio": "Saggio",
+        "livello": 3,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Proiettile Corrosivo",
+        "descrizione": "Fai un Tiro di Incantesimo contro un bersaglio entro Portata Lontana. In caso di successo, infliggi d6+4 danni magici usando la tua Competenza. Inoltre, segna 2 o più Stress per rendere il bersaglio permanentemente Corroso. Mentre un bersaglio è Corroso, subisce un −1 alla Difficoltà per ogni 2 Stress spesi. Questa condizione è cumulabile."
+    },
+    {
+        "id": "card-060",
+        "dominio": "Saggio",
+        "livello": 3,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Germoglio Torreggiante",
+        "descrizione": "Una volta per riposo, puoi evocare un germoglio spesso e attorcigliato entro Portata Ravvicinata che può essere facilmente scalato. Può crescere fino a Portata Lontana. Segna 1 Stress per usare questo incantesimo come attacco. Fai un Tiro di Incantesimo contro un avversario o gruppo di avversari entro Portata Ravvicinata. Il germoglio eruttante solleva i bersagli in aria e li lascia cadere, infliggendo d8 danni fisici usando la tua Competenza."
+    },
+    {
+        "id": "card-061",
+        "dominio": "Splendore",
+        "livello": 3,
+        "categoria": "Abilità",
+        "costo": 2,
+        "titolo": "Second Wind",
+        "descrizione": "Una volta per riposo, quando hai successo in un attacco contro un avversario, puoi rimuovere 3 Stress o 1 Punto Ferita. Se ottieni anche una Speranza (Hope), puoi rimuovere anche 3 Stress o 1 PF a un alleato entro Portata Ravvicinata."
+    },
+    {
+        "id": "card-062",
+        "dominio": "Splendore",
+        "livello": 3,
+        "categoria": "Abilità",
+        "costo": 1,
+        "titolo": "Voce della Ragione",
+        "descrizione": "Parli con un'autorità e una sicurezza fuori dal comune. Hai vantaggio ai tiri per disinnescare situazioni violente o convincere qualcuno a seguirti. Inoltre, sei audace nei momenti di tensione: quando tutti i tuoi Stress sono segnati, ottieni un +1 alla tua Competenza per i tiri di danno."
+    },
+    {
+        "id": "card-063",
+        "dominio": "Valore",
+        "livello": 3,
+        "categoria": "Abilità",
+        "costo": 1,
+        "titolo": "Ispirazione Critica",
+        "descrizione": "Una volta per riposo, quando ottieni un successo critico in un attacco, tutti gli alleati entro Portata Molto Ravvicinata possono rimuovere 1 Stress o ottenere una Speranza."
+    },
+    {
+        "id": "card-064",
+        "dominio": "Valore",
+        "livello": 3,
+        "categoria": "Abilità",
+        "costo": 1,
+        "titolo": "Conta su di me",
+        "descrizione": "Una volta per riposo lungo, quando consoli o ispiri un alleato che ha fallito un tiro, entrambi potete rimuovere 2 Stress."
     }
   ]
   
