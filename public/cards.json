@@ -403,6 +403,60 @@
         "costo": 0,
         "titolo": "Bold Presence",
         "descrizione": "Quando effettui un Tiro di Presenza, puoi spendere 1 Speranza per aggiungere il tuo punteggio di Forza al tiro. Inoltre, una volta per riposo, quando stai per ottenere una condizione, puoi descrivere come la tua audace presenza ti aiuta nella situazione ed evitare di acquisire quella condizione."
+    },
+    {
+        "id": "card-047",
+        "dominio": "Arcano",
+        "livello": 3,
+        "categoria": "Incantesimo",
+        "costo": 2,
+        "titolo": "Controincantesimo",
+        "descrizione": "Puoi interrompere un effetto magico in atto effettuando un tiro di reazione usando il tuo tratto di Incantare. Con un successo, l’effetto si interrompe e ogni conseguenza viene evitata, e questa carta viene posta nella tua riserva."
+    },
+    {
+        "id": "card-048",
+        "dominio": "Arcano",
+        "livello": 3,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Volo",
+        "descrizione": "Effettua un Tiro di Incantare (15). Con un successo, posiziona un numero di segnalini pari alla tua Agilità (minimo 1) su questa carta. Quando effettui un tiro d’azione mentre sei in volo, rimuovi un segnalino da questa carta. Dopo l’azione che consuma l’ultimo segnalino, scendi al suolo direttamente sotto di te."
+    },
+    {
+        "id": "card-049",
+        "dominio": "Spada",
+        "livello": 3,
+        "categoria": "Abilità",
+        "costo": 1,
+        "titolo": "Fuga Rapida",
+        "descrizione": "Una volta per riposo, quando una creatura entro Gittata da Mischia sta per infliggerti danno, puoi evitare l’attacco e allontanarti in sicurezza dalla Gittata da Mischia del nemico."
+    },
+    {
+        "id": "card-050",
+        "dominio": "Spada",
+        "livello": 3,
+        "categoria": "Abilità",
+        "costo": 1,
+        "titolo": "Combattente Versatile",
+        "descrizione": "Puoi usare un tratto del tuo personaggio diverso da quello richiesto dall’arma equipaggiata. Quando infliggi danni, puoi segnare 1 Stress per usare il valore massimo di uno dei tuoi dadi danno invece di tirarlo."
+    },
+    {
+        "id": "card-051",
+        "dominio": "Ossa",
+        "livello": 3,
+        "categoria": "Abilità",
+        "costo": 1,
+        "titolo": "Resistenza",
+        "descrizione": "Quando usi uno Slot Armatura per ridurre danni in arrivo, puoi segnare 1 Stress per segnare uno Slot Armatura aggiuntivo."
+    },
+    {
+        "id": "card-052",
+        "dominio": "Ossa",
+        "livello": 3,
+        "categoria": "Abilità",
+        "costo": 1,
+        "titolo": "Tattico",
+        "descrizione": "Quando Aiuti un Alleato, questi può spendere 1 Speranza per aggiungere uno dei tuoi Esperienze al loro tiro, accanto al proprio dado di vantaggio. Quando effettui un Tiro di Squadra, puoi tirare un d20 come tuo dado di Speranza."
     }
   ]
   
