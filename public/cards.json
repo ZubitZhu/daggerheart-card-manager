@@ -565,6 +565,15 @@
         "costo": 1,
         "titolo": "Conta su di me",
         "descrizione": "Una volta per riposo lungo, quando consoli o ispiri un alleato che ha fallito un tiro, entrambi potete rimuovere 2 Stress."
+    },
+    {
+        "id": "card-065",
+        "dominio": "Arcano",
+        "livello": 4,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Svanire",
+        "descrizione": "Fai un <b>Tiro di Incantesimo (12)</b>. Con un successo, spendi una Speranza per teletrasportarti in un altro punto che puoi vedere entro il range Lontano. Se sono presenti delle creature consenzienti in range Molto Vicino, spendi una Speranza addizionale per ogni creatura che vuoi portare con te."
     }
   ]
   

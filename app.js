@@ -2,7 +2,6 @@
 const JSON_URL = "./public/cards.json"; // Cambia se necessario
 
 let cards = [];
-let selectedCards = [];
 let filters = { domini: [], livelli: [] };
 let allCardsVisible = true;
 let sortMode = "livello-asc";
