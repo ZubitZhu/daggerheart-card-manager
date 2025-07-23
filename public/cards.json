@@ -601,6 +601,24 @@
         "costo": 0,
         "titolo": "Armatura Rinforzata",
         "descrizione": "Mentre indossi un'armatura, guadagni un bonus +2 alle tue soglie di danno."
+    },
+    {
+        "id": "card-069",
+        "dominio": "Ossa",
+        "livello": 4,
+        "categoria": "Abilità",
+        "costo": 1,
+        "titolo": "Lancio",
+        "descrizione": "<b>Segna uno Stress</b> per farti lanciare in aria da un alleato a distanza Vicino ed effettuare un attacco contro un bersaglio a distanza Lontano. Guadagni vantaggio nell'attacco, aggiungi 1d10 al danno e alla fine ti muovi nel range Melee del bersaglio."
+    },
+    {
+        "id": "card-070",
+        "dominio": "Ossa",
+        "livello": 4,
+        "categoria": "Abilità",
+        "costo": 1,
+        "titolo": "Reindirizzare",
+        "descrizione": "Quando un attacco effettuato contro di te oltre la distanza Melee fallisce, tiri un numero di <b>d6</b> uguale alla tua Competenza. Se uno di quei tiri è un 6, puoi segnare uno Stress per reindirizzare l'attacco verso un avversario in range Molto Vicino."
     }
   ]
   
