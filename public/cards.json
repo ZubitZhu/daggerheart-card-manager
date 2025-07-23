@@ -574,6 +574,33 @@
         "costo": 1,
         "titolo": "Svanire",
         "descrizione": "Fai un <b>Tiro di Incantesimo (12)</b>. Con un successo, spendi una Speranza per teletrasportarti in un altro punto che puoi vedere entro il range Lontano. Se sono presenti delle creature consenzienti in range Molto Vicino, spendi una Speranza addizionale per ogni creatura che vuoi portare con te."
+    },
+    {
+        "id": "card-066",
+        "dominio": "Arcano",
+        "livello": 4,
+        "categoria": "Incantesimo",
+        "costo": 2,
+        "titolo": "Esplosione Respingente",
+        "descrizione": "Fai un <b>Tiro di Incantesimo </b> contro tutti i bersagli a distanza Melee. I bersagli contro cui hai successo vengono respinti a distanza Lontano e subiscono <b>d8+3</b> danni magici usando il tuo tratto da incantatore."
+    },
+    {
+        "id": "card-067",
+        "dominio": "Spada",
+        "livello": 4,
+        "categoria": "Abilità",
+        "costo": 2,
+        "titolo": "Focus Mortale",
+        "descrizione": "Una volta per riposo, puoi concentrare il tuo focus su un bersaglio a tua scelta. Finchè non attacchi un'altra creatura, sconfiggi il bersaglio o finisce la battaglia, guadagni un bonus +1 alla tua competenza."
+    },
+    {
+        "id": "card-068",
+        "dominio": "Spada",
+        "livello": 4,
+        "categoria": "Abilità",
+        "costo": 0,
+        "titolo": "Armatura Rinforzata",
+        "descrizione": "Mentre indossi un'armatura, guadagni un bonus +2 alle tue soglie di danno."
     }
   ]
   
