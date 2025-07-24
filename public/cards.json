@@ -634,9 +634,27 @@
         "dominio": "Codex",
         "livello": 4,
         "categoria": "Grimorio",
-        "costo": 3,
+        "costo": 2,
         "titolo": "Libro di Grynn",
         "descrizione": "<b>Deflezione Arcana:</b> Una volta per riposo, <b>spendi una Speranza</b> per negare il danno di un attacco che sta bersagliando te o un alleato in range Molto Vicino da te. <br><b>Blocco Temporale:</b> Bersaglia un oggetto in range Lontano. Quell'oggetto si blocca nello spazio e nel tempo esattamente dove si trova fino al tuo prossimo riposo. Se una creatura prova a muoverlo, fai un <b>Tiro di Incantesimo</b> per cercare di mantenere attivo l'incantesimo. <br><b>Muro di Fiamme:</b> Fai un <b>Tiro di Incantesimo (15).</b> Con un successo, crei un muro di fiamme magiche fra due punti in range Lontano. Tutte le creature sul suo cammino devono scegliere da che parte del muro stare e tutto ciò che ci passa attraverso subisce <b>4d10 + 3</b> danni magici."
+    },
+    {
+        "id": "card-073",
+        "dominio": "Grazia",
+        "livello": 4,
+        "categoria": "Abilità",
+        "costo": 1,
+        "titolo": "Parole Confortanti",
+        "descrizione": "Durante un riposo breve, quandi prendi del tempo per confortare un altro personaggio mentre usi la downtime move <b>Tend to Wounds</b> su di loro, rimuovi un punto ferita aggiuntivo a quel personaggio. Quando lo fai, anche tu rimuovi 2 Punti Ferita."
+    },
+    {
+        "id": "card-074",
+        "dominio": "Grazia",
+        "livello": 4,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Attraverso i tuoi occhi",
+        "descrizione": "Scegli un bersaglio in range Molto Lontano. Puoi vedere attraverso i loro occhi e sentire attraverso le loro orecchie. Puoi passare da usare i tuoi sensi a quelli del bersaglio liberamente finchè non lanci un altro incantesimo o fino al tuo prossimo riposo."
     }
   ]
   
