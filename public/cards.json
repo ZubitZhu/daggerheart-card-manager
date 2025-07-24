@@ -619,6 +619,24 @@
         "costo": 1,
         "titolo": "Reindirizzare",
         "descrizione": "Quando un attacco effettuato contro di te oltre la distanza Melee fallisce, tiri un numero di <b>d6</b> uguale alla tua Competenza. Se uno di quei tiri è un 6, puoi segnare uno Stress per reindirizzare l'attacco verso un avversario in range Molto Vicino."
+    },
+    {
+        "id": "card-071",
+        "dominio": "Codex",
+        "livello": 4,
+        "categoria": "Grimorio",
+        "costo": 3,
+        "titolo": "Libro di Exota",
+        "descrizione": "<b>Ripudio:</b> Puoi interrompere un effetto magico che sta accadendo. Fai un tiro di Reazione usando la tua caratteristica da incantatore. Con un successo, una volta per riposo, l'effetto termina ed ogni conseguenza viene negata.<br> <b>Creare Costrutto:</b> <b>Spendi una Speranza</b> per scegliere un gruppo di oggetti intorno a te e creare con loro un costrutto animato che obbedisce a comandi semplici. Per farli agire fai un <b>Tiro di Incantesimo</b>. Quando necessario, condividono la tua Evasione e le tue caratteristiche e i loro attacchi infliggono 2d10 + 3 danni fisici. Puoi mantenere attivo solo 1 costrutto per volta e vengono distrutti se subiscono un qualsiasi numero di ferite."
+    },
+    {
+        "id": "card-072",
+        "dominio": "Codex",
+        "livello": 4,
+        "categoria": "Grimorio",
+        "costo": 3,
+        "titolo": "Libro di Grynn",
+        "descrizione": "<b>Deflezione Arcana:</b> Una volta per riposo, <b>spendi una Speranza</b> per negare il danno di un attacco che sta bersagliando te o un alleato in range Molto Vicino da te. <br><b>Blocco Temporale:</b> Bersaglia un oggetto in range Lontano. Quell'oggetto si blocca nello spazio e nel tempo esattamente dove si trova fino al tuo prossimo riposo. Se una creatura prova a muoverlo, fai un <b>Tiro di Incantesimo</b> per cercare di mantenere attivo l'incantesimo. <br><b>Muro di Fiamme:</b> Fai un <b>Tiro di Incantesimo (15).</b> Con un successo, crei un muro di fiamme magiche fra due punti in range Lontano. Tutte le creature sul suo cammino devono scegliere da che parte del muro stare e tutto ciò che ci passa attraverso subisce <b>4d10 + 3</b> danni magici."
     }
   ]
   
