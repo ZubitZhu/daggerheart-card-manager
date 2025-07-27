@@ -655,6 +655,78 @@
         "costo": 1,
         "titolo": "Attraverso i tuoi occhi",
         "descrizione": "Scegli un bersaglio in range Molto Lontano. Puoi vedere attraverso i loro occhi e sentire attraverso le loro orecchie. Puoi passare da usare i tuoi sensi a quelli del bersaglio liberamente finchè non lanci un altro incantesimo o fino al tuo prossimo riposo."
+    },
+    {
+        "id": "card-075",
+        "dominio": "Mezzanotte",
+        "livello": 4,
+        "categoria": "Abilità",
+        "costo": 0,
+        "titolo": "Esperto dello Stealth",
+        "descrizione": "Quando tiri con Paura mentre tenti di muoverti inosservato attraverso un'area pericolosa, puoi segnare uno Stress per tirare con Speranza invece. Se un alleato nel raggio Ravvicinato sta anche tentando di muoversi inosservato e tira con Paura, puoi segnare uno Stress per cambiare il suo risultato in un tiro con Speranza."
+    },
+    {
+        "id": "card-076",
+        "dominio": "Mezzanotte",
+        "livello": 4,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Glifo del Crepuscolo",
+        "descrizione": "Effettua un Tiro di Incantesimo contro un bersaglio a distanza Molto Ravvicinata. In caso di successo, spendi una Speranza per evocare un glifo oscuro sul loro corpo che ne rivela i punti deboli, riducendo temporaneamente la Difficoltà del bersaglio di un valore pari alla tua Knowledge (minimo 1)."
+    },
+    {
+        "id": "card-077",
+        "dominio": "Saggio",
+        "livello": 4,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Stretta Mortale",
+        "descrizione": "Effettua un Tiro di Incantesimo contro un bersaglio a distanza Vicino e scegli una delle seguenti opzioni: <br><ul><li>Trascini il bersaglio in range Mischia mischia o ti avvicini tu a distanza Mischia da lui.</li><li>Restringi il bersaglio e lo costringi a segnare 2 Stress.</li><li>Tutti gli avversari tra te e il bersaglio devono superare un Tiro di Reazione (13) o essere colpiti da rampicanti, subendo 3d6+2 danni fisici.</ul><br>In caso di successo, delle liane si allungano dalle tue mani, causando l’effetto scelto e Restringendo temporaneamente il bersaglio."
+    },
+    {
+        "id": "card-078",
+        "dominio": "Saggio",
+        "livello": 4,
+        "categoria": "Incantesimo",
+        "costo": 2,
+        "titolo": "Campo Guaritivo",
+        "descrizione": "Una volta per ogni riposo lungo, puoi evocare un campo di piante curative intorno a te. Ovunque entro il raggio Vicino da te esplode di natura rigogliosa, permettendo a te e a tutti gli alleati nell’area di recuperare 1 Punto Ferita. Spendi 2 Speranza per permettere a te e a tutti gli alleati di recuperare invece 2 Punti Ferita."
+    },
+    {
+        "id": "card-079",
+        "dominio": "Splendore",
+        "livello": 4,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Divinazione",
+        "descrizione": "Una volta per ogni riposo lungo, spendi 3 Speranza per entrare in contatto con le forze dell’aldilà e porre una domanda a cui si possa rispondere con “sì” o “no” riguardo a un evento, una persona, un luogo o una situazione nel prossimo futuro. Per un attimo, il presente svanisce e vedi la risposta davanti a te."
+    },
+    {
+        "id": "card-080",
+        "dominio": "Splendore",
+        "livello": 4,
+        "categoria": "Incantesimo",
+        "costo": 1,
+        "titolo": "Sigillo Vitale",
+        "descrizione": "Una volta per ogni riposo lungo, spendi 3 Speranza per entrare in contatto con le forze dell’aldilà e porre una domanda a cui si possa rispondere con “sì” o “no” riguardo a un evento, una persona, un luogo o una situazione nel prossimo futuro. Per un attimo, il presente svanisce e vedi la risposta davanti a te."
+    },
+    {
+        "id": "card-081",
+        "dominio": "Valore",
+        "livello": 4,
+        "categoria": "Abilità",
+        "costo": 1,
+        "titolo": "Provocali!",
+        "descrizione": "Descrivi come provochi un bersaglio entro il raggio Ravvicinato, poi effettua un Tiro di Presenza contro di lui. In caso di successo, il bersaglio deve segnare uno Stress e, la prossima volta che il GM lo mette sotto i riflettori, deve attaccarti con svantaggio."
+    },
+    {
+        "id": "card-082",
+        "dominio": "Valore",
+        "livello": 4,
+        "categoria": "Incantesimo",
+        "costo": 2,
+        "titolo": "Tank di Supporto",
+        "descrizione": "Quando un alleato entro il raggio Ravvicinato fallisce un tiro, puoi spendere 2 Speranza per permettergli di rilanciare il dado di Speranza o di Paura."
     }
   ]
   
