@@ -708,7 +708,7 @@
         "categoria": "Incantesimo",
         "costo": 1,
         "titolo": "Sigillo Vitale",
-        "descrizione": "Una volta per ogni riposo lungo, spendi 3 Speranza per entrare in contatto con le forze dell’aldilà e porre una domanda a cui si possa rispondere con “sì” o “no” riguardo a un evento, una persona, un luogo o una situazione nel prossimo futuro. Per un attimo, il presente svanisce e vedi la risposta davanti a te."
+        "descrizione": "Spendi 3 Punti Speranza e scegli un alleato in range Vicino. Egli viene marchiato con un sigillo scintillante di protezione. Quando questo alleato si trova a dover fare una Mossa di Morte, rimuove invece un una ferita. Questo effetto termina quando l'incantesimo salva dalla morte il bersaglio, lanci Sigillo Vitale su un altro bersaglio o effettui un riposo lungo."
     },
     {
         "id": "card-081",
